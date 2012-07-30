@@ -33,3 +33,6 @@ behat-viewer.json
 build.sh
 
 composer.phar
+
+# Vagrant
+.vagrant
